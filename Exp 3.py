@@ -1,10 +1,9 @@
-'''Purpose:Consider the string “Welcome to Python world”.Perform the following operations:
+Consider the string “Welcome to Python world”.Perform the following operations:
 Count the number of alphabets in the given string.
 To extract characters in the given, range from the given string.
 Check if the string is alphanumeric or not.
 
-Author:Suryansh Sharma
-'''
+Author:Ayush bhat
 
 str="Welcome to Python world"
 count=0
