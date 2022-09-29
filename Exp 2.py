@@ -1,7 +1,6 @@
-'''Purpose:Write a program to illustrate iteration over the list and dictionary.
+Write a program to illustrate iteration over the list and dictionary.
 
-Author:Suryansh Sharma
-'''
+Author:Ayush bhat
 
 # Method #1: Using For loop
 list = [1, 3, 5, 7, 9]
